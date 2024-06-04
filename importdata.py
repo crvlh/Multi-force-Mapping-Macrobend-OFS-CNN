@@ -16,7 +16,7 @@ import matplotlib.pyplot as plt
 # Target import
 
 # Path to the file
-data_folder1 = "C:\\Users\\vinic\\Desktop\\Doutorado\\TESE 2\\Dados\\dados vinicius\\target.xlsx"
+data_folder1 = "directory path"
 # Read the Excel spreadsheet into a pandas DataFrame
 df = pd.read_excel(data_folder1, header=0)    
 targets_reg = df.values
@@ -24,7 +24,7 @@ targets_reg = df.values
 # Input import
 
 # Define the path to the folder containing optical data files
-data_folder2 = "C:\\Users\\vinic\\Desktop\\Doutorado\\TESE 2\\Dados\\dados vinicius" 
+data_folder2 = "directory path" 
 # Filter
 n_wavelength_effective = 1734 # Number of wavelengths
 skip_rows = 707  # Row index of the first considered wavelength 
