@@ -4,6 +4,7 @@
 Multi-force Mapping with Macrobend Optical Fiber Sensors using Convolutional Neural Networks (CNN): a cutting-edge platform for accurate and efficient detection and mapping of multiple forces leveraging advanced fiber optic sensing technology.
 
 <img src="https://github.com/user-attachments/assets/cc4e7596-3b1f-4357-8b02-9da50e845e5a" width="500">
+
 ## Introduction
 This project aims to develop a multi-force sensing platform using macrobend optical fiber sensors (OFS) combined with Convolutional Neural Networks (CNN) for accurate detection and mapping of forces. The system is designed to utilize advanced fiber optic sensing technology to capture and interpret multiple forces efficiently.
 
